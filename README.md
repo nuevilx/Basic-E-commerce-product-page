@@ -8,6 +8,7 @@ Implementation:
 
 The HTML document defines the structure of the product page, including sections for images, product description, color and cable configuration options, and pricing.
 Proper use of semantic HTML tags enhances accessibility and search engine optimization.
+
 2. CSS Styling:
 
 Utilizes a responsive design approach to ensure a consistent and visually pleasing experience across various devices.
@@ -37,6 +38,4 @@ Achieving a balance between a modern design and ensuring that the interface alig
 3. JavaScript Interaction:
 
 Ensuring smooth and accurate color selection functionality through JavaScript and jQuery involved overcoming initial hurdles related to event handling and DOM manipulation.
-4. Cross-Browser Compatibility:
 
-Ensuring consistent performance across different web browsers required thorough testing and addressing compatibility issues.
